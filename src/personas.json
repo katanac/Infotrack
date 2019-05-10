@@ -1,0 +1,16 @@
+{
+    "personas": [{
+            "id": 1,
+            "nombres": "jose",
+            "apellidos": "buelvas",
+            "numDoc": 12345
+        },
+
+        {
+            "id": 2,
+            "nombres": "Jessica",
+            "apellidos": "sanches",
+            "numDoc": 123375
+        }
+    ]
+}
